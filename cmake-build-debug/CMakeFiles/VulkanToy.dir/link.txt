@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/VulkanToy.dir/main.cpp.o  -o VulkanToy ThirdParty/glfw/src/libglfw3.a -lvulkan -lpthread /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl 
